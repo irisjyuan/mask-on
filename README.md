@@ -1,6 +1,9 @@
 # mask-on
 
-SOURCE CODE LICENSE
+SOURCE CODE:
+App with 2 tabs, empty list with location & empty map view.
+
+SOURCE CODE LICENSE:
 raywenderlich.com 
 
 /// Copyright (c) 2018 Razeware LLC
